@@ -11,9 +11,9 @@ public class AmstrongOrNot {
         }
 
         if (a == res)
-            System.out.println(a + " is a palindrome.");
+            System.out.println(a + " is a amstrong .");
         else
-            System.out.println(a + " is not a palindrome.");
+            System.out.println(a + " is not a amstrong.");
     }
 }
 
